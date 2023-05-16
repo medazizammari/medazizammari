@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mohamedaziz.ammari@insat.ucar.tn**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/medazizammari/overlay/1635523439609/single-media-viewer/?profileId=ACoAABwGLZwBn9j9S5BA4-5rWuwhrlIlC1H8UUw](https://www.linkedin.com/in/medazizammari/overlay/1635523439609/single-media-viewer/?profileId=ACoAABwGLZwBn9j9S5BA4-5rWuwhrlIlC1H8UUw)
+- 📄 Know about my experiences [https://bit.ly/3MbOoac](https://bit.ly/3MbOoac)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
