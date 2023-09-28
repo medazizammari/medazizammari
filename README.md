@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **Fiasco GMBH**
 
-- 💬 Ask me about **GoLang / gRpc / Microservice based applications**
+- 💬 Ask me about **GoLang / Websockets / Docker / Kubernetes / gRpc / Microservice based applications**
 
 - 📫 How to reach me **mohamedaziz.ammari@insat.ucar.tn**
 
