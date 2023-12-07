@@ -3,10 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medazizammari&label=Profile%20views&color=0e75b6&style=flat" alt="medazizammari" /> </p>
 
-- 🔭 I’m currently working with **Fiasco GMBH**
 
-- 💬 Ask me about **GoLang / Websockets / Docker / Kubernetes / gRpc / Microservice based applications**
 
+- 💬 Ask me about **GoLang / Websockets / Docker / Kubernetes / gRpc / Microservice-based applications / Communication protocols / EVs / OCPP 2.0.1 **
+
+- 💬 I also have experience in Backend development using Python, NodeJS, PHP (Laravel) and Elixir (Phoenix Framework)
+ 
 - 📫 How to reach me **mohamedaziz.ammari@insat.ucar.tn**
 
 - 📄 Know about my experiences [https://bit.ly/3MbOoac](https://bit.ly/3MbOoac)
